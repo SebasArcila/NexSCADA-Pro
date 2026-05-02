@@ -47,11 +47,11 @@ SCADA_CONFIG = {
 
 # Configuración de Base de Datos
 DB_PARAMS = {
-    'database': 'bd-scymd',
-    'user': 'scada_admin',
-    'password': 'Rlb*1985',
-    'host': '181.143.156.230',
-    'port': 5432,
+    'database': '',
+    'user': '',
+    'password': '',
+    'host': '',
+    'port': ,
     'connect_timeout': 5
 }
 
